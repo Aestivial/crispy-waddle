@@ -75,3 +75,17 @@ body {
     font-family: "Rubik", sans-serif;
     font-weight: 500;
   }
+
+  .container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    bottom: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
