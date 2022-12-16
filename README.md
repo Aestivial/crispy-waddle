@@ -1,3 +1,3 @@
 # crispy-waddle
 Our project repo.
-For a webapp.
+For a personalised website.
